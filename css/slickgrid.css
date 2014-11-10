@@ -165,3 +165,20 @@ classes should alter those!
   cursor: pointer;
 }
 
+.recline-slickgrid .recline-row-delete {
+  font-size: 12px;
+  padding: 2px;
+  width: 22px;
+  height: 14px;
+  line-height: 13px;
+}
+
+.recline-cell-reorder {
+  font-size: 12px;
+  padding: 2px;
+  width: 22px;
+  height: 14px;
+  line-height: 13px;
+  cursor: move;
+  background: url("../images/drag-handle.png") no-repeat center center;
+}
